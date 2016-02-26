@@ -4,9 +4,9 @@
 
 ## Version and updates
 
-1.0
+1.0.1
 
-Created: October 28, 2015 12:12:38 EDT | Last modified: February 25, 2016  8:38:24 EST
+Created: October 28, 2015 12:12:38 EDT | Last modified: February 25, 2016  8:39:56 EST
 
 ## Permalinks
 
