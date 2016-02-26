@@ -30,9 +30,13 @@ TBD
 
 ### See below
 
-Voting Agreement - try alt dependencies and v-initialized template - N/A
-N/A
+
+  Voting Agreement - try alt dependencies and v-initialized template - N/A
+
+  N/A
+
 
 ## Disclaimer
 
-Voting Agreement - try alt dependencies and v-initialized template - N/A
+
+  Voting Agreement - try alt dependencies and v-initialized template - N/A
