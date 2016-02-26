@@ -6,7 +6,7 @@
 
 1.0
 
-Created: October 28, 2015 12:12:38 EDT | Last modified: November 19, 2015  1:24:53 EST
+Created: October 28, 2015 12:12:38 EDT | Last modified: February 25, 2016  8:38:24 EST
 
 ## Permalinks
 
@@ -16,7 +16,7 @@ Repository Permalink: https://github.com/valcucodev/document-templates-october-2
 
 ## Synopsis
 
-Document Templates created on October 28, 2015
+Document Templates created on October 28, 2015 - test for github push
 
 ## Notes
 
