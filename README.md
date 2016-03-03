@@ -10,7 +10,7 @@ Created: October 28, 2015 12:12:38 EDT | Last modified: February 25, 2016  9:05:
 
 ## Permalinks
 
-Valcu Permalink: https://valcu.co/mark/templating_groups/document-templates-october-28-corporation-v1_0
+Valcu Permalink: https://localhost:3000/mark/templating_groups/document-templates-october-28-corporation-v1_0
 
 Repository Permalink: https://github.com/valcucodev/document-templates-october-28-corporation-v1_0
 

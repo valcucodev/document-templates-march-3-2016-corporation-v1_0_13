@@ -6,11 +6,11 @@
 
 1.0
 
-Created: February 23, 2016  7:04:21 EST | Last modified: February 25, 2016  7:39:22 EST
+Created: February 23, 2016  7:04:21 EST | Last modified: February 25, 2016  9:20:34 EST
 
 ## Permalinks
 
-Valcu Permalink: https://valcu.co/users/mark/doc_templates/amended-and-restated-certificate-of-incorporation-nvca-john-v1_0-18
+Valcu Permalink: https://localhost:3000/users/mark/doc_templates/amended-and-restated-certificate-of-incorporation-nvca-john-v1_0-18
 
 Repository Permalink: https://github.com/valcucodev/amended-and-restated-certificate-of-incorporation-nvca-john-v1_0-18
 

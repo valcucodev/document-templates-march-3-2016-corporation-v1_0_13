@@ -10,7 +10,7 @@ Created: October 26, 2015  8:38:36 EDT | Last modified: October 27, 2015 10:01:2
 
 ## Permalinks
 
-Valcu Permalink: https://valcu.co/users/mark/doc_templates/voting-agreement-try-alt-dependencies-and-v-initialized-template-11
+Valcu Permalink: https://localhost:3000/users/mark/doc_templates/voting-agreement-try-alt-dependencies-and-v-initialized-template-11
 
 Repository Permalink: https://github.com/valcucodev/voting-agreement-try-alt-dependencies-and-v-initialized-template-11
 
