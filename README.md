@@ -1,18 +1,18 @@
 
 
-# Document Templates - October 28, 2015
+# Document Templates - March 3, 2016
 
 ## Version and updates
 
-1.0.1
+1.0.13
 
-Created: October 28, 2015 12:12:38 EDT | Last modified: March 3, 2016  4:19:18 EST
+Created: October 28, 2015 12:12:38 EDT | Last modified: March 3, 2016  7:28:44 EST
 
 ## Permalinks
 
-Valcu Permalink: https://localhost:3000/mark/templating_groups/document-templates-october-28-corporation-v1_0
+Valcu Permalink: https://localhost:3000/mark/templating_groups/document-templates-march-3-2016-corporation-v1_0_13
 
-Repository Permalink: https://github.com/valcucodev/document-templates-october-28-corporation-v1_0
+Repository Permalink: https://github.com/valcucodev/document-templates-march-3-2016-corporation-v1_0_13
 
 ## Synopsis
 
